@@ -24,9 +24,9 @@ This application requires a `.env` file in the root directory with the following
 Create a `.env` file in the root directory of the project with the following variables:
 
 ```
-ZEGO_APP_ID=279954850
-ZEGO_APP_SIGN=a696c7c482d5e92a689d96cfe70bdc89cab74cf69d11f448d92a299af8e6c491
-CLERK_KEY=pk_test_Y2hlZXJmdWwtc2t1bmstNDEuY2xlcmsuYWNjb3VudHMuZGV2JA
+ZEGO_APP_ID="?"
+ZEGO_APP_SIGN="?"
+CLERK_KEY="?"
 ```
 
 ## Important Notes
